@@ -1,0 +1,74 @@
+
+* {
+margin: 0px;
+padding: 0px;
+}
+body {
+font-size: 120%;
+background-image :url("141.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+margin-bottom: 100px;}
+h1{
+  font-size: 20px;
+}
+
+.header {
+width: 30%;
+margin: 50px auto 0px;
+color: white;
+background: #aad8d3;
+text-align: center;
+border: 1px solid #f7f3e9;
+border-bottom: none;
+border-radius: 10px 10px 0px 0px;
+padding: 20px;
+}
+form, .content {
+width: 30%;
+margin: 0px auto;
+padding: 20px;
+border: 1px solid #f7f3e9;
+background: #f7f3e9;
+border-radius: 0px 0px 10px 10px;
+}
+.input-group {
+margin: 10px 0px 10px 0px;
+}
+.input-group label {
+display: block;
+text-align: left;
+margin: 3px;
+}
+.input-group input {
+height: 30px;
+width: 93%;
+padding: 5px 10px;
+font-size: 16px;
+border-radius: 5px;
+border: 1px solid gray;
+}
+.btn {
+padding: 10px;
+font-size: 15px;
+color: d8e3e7;
+background: #aad8d3;
+border: none;
+border-radius: 5px;
+}
+.error {
+width: 92%;
+margin: 0px auto;
+padding: 10px;
+border: 1px solid #a94442;
+color: #a94442;
+background: #f2dede;
+border-radius: 5px;
+text-align: left;
+}
+.success {
+color:#df7f3e9;
+background: #aad8d3;
+border: 1px solid #f7f3e9;
+margin-bottom: 20px;
+}
